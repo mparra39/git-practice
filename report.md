@@ -10,3 +10,7 @@
    - Evidence 3: merge graph
    - Evidence 4: repository on GitHub
    - Evidence 5: commit pulled from GitHub
+
+
+   ## Reflection
+   Q1: Git shows line-by-line changes for Markdown, but not for Word files.
